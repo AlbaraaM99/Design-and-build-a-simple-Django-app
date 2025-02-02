@@ -1,0 +1,2 @@
+<!--Footer content-->
+    {% include 'partials/_footer.html' %} 
